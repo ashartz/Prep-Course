@@ -157,6 +157,7 @@ producto.calcularPrecioDescuento = function (){
 };
 return producto;
 }
+
 //  return this.precio - this.precio * this.porcentajeDeDescuento;
 
 // No modificar nada debajo de esta línea
